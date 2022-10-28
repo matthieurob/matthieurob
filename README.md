@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matthieurob
-- 👀 I’m interested in C coding and AI
+- 👀 I’m interested in C and AI
 - 🌱 I’m currently learning C and C++ languages
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...nothing yet
 - 📫 How to reach me ... you won't
 
 > Never gonna give you up
