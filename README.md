@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matthieurob
+- 👋 Hi, I’m @sign-painter
 - 👀 I’m interested in C and AI
 - 🌱 I’m currently learning C and C++ languages
 - 💞️ I’m looking to collaborate on ...nothing yet
