@@ -19,3 +19,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sign-painter&theme=dark" alt="sign-painter" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sign-painter&label=Profile%20views&color=0e75b6&style=plastic" alt="sign-painter" /> </p>
+
+![image](https://user-images.githubusercontent.com/116882045/203751003-fa01578a-d42a-4b4f-aee1-237d6d58a0be.png)
+
+<h3>Here's my friend Fisty !</h3>
+
