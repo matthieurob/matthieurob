@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SignPainter</h1>
+<h1 align="center">Hi, I'm SignPainter</h1>
 <h3 align="center">Or, as we're on the Information Superhighway, SignPaintr4evr</h3>
 
 - 🌱 I’m currently learning : **C, C++**
